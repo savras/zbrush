@@ -1,1 +1,16 @@
 , - lightbox
+ctrl - more details when hovering over a control
+b - brushes
+tab - hide interface
+spacebar - bring out hotbox
+f - focus/ frame
+shift + f - wireframe
+
+Gizmo
+=====
+alt + click - reset gizmo on clicked position of model
+hold alt - interact only with gizmo
+ctrl + shift + click on model - select subtools for gizmo
+ctrl + shift + click open space - invert selection
+ctrl + shift + click & drag - clear selection
+ctrl + drag - inflate model
