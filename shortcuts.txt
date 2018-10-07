@@ -1,10 +1,14 @@
-, - lightbox
 ctrl - more details when hovering over a control
-b - brushes
 tab - hide interface
 spacebar - bring out hotbox
-f - focus/ frame
 shift + f - wireframe
+, - lightbox
+b - brush library
+f - focus/ frame
+s + click & drag - change brush size
+[ or ] - change brush size
+x - symmetry mode
+
 
 Gizmo
 =====
@@ -14,3 +18,20 @@ ctrl + shift + click on model - select subtools for gizmo
 ctrl + shift + click open space - invert selection
 ctrl + shift + click & drag - clear selection
 ctrl + drag - inflate model
+
+Common Brushes
+==============
+b, c, l - clay tool 
+    brush -> automasking -> on backface mask    // so it doesn't affect back of sculpt
+b, d, s - damien standard    // Ryan Kittleson has his own version
+    stroke -> lazy mouse    // Gives guideline to draw
+b, f, a - flatten
+b, i, n - inflate
+b, s, h - snake hook
+b, m, v - move, 
+    alt + drag - outward from plane
+b, m, t - move topological (ignores gap)
+
+Functions
+=========
+Dynamic brush // double click on the word, controls brush size being relative to screen or model
