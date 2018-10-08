@@ -2,10 +2,15 @@ ctrl - more details when hovering over a control
 tab - hide interface
 spacebar - bring out hotbox
 shift + f - wireframe
+
 , - lightbox
 b - brush library
 f - focus/ frame
 s + click & drag - change brush size
+shift + click & drag - smooth brush
+alt + shift + click & drag - inverse smooth brush
+alt - inverse brush behaviour
+    alt & move tool - toggles between move in relation to camera or model
 [ or ] - change brush size
 x - symmetry mode
 
@@ -35,3 +40,6 @@ b, m, t - move topological (ignores gap)
 Functions
 =========
 Dynamic brush // double click on the word, controls brush size being relative to screen or model
+Aplha // images that drive brush detail
+    Stroke -> Modifier -> Roll  // Completes alpha image before applying new alpha (which stack on each other)
+    Alpha -> Modifier -> Midvalue  // Inverts the white & black image of the brush
