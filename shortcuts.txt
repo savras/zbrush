@@ -14,6 +14,10 @@ alt - inverse brush behaviour
 [ or ] - change brush size
 x - symmetry mode
 
+Subtool
+=======
+alt + click model parts - select subtool
+shift + click subtool icon - multi apply
 
 Gizmo
 =====
@@ -43,3 +47,4 @@ Dynamic brush // double click on the word, controls brush size being relative to
 Aplha // images that drive brush detail
     Stroke -> Modifier -> Roll  // Completes alpha image before applying new alpha (which stack on each other)
     Alpha -> Modifier -> Midvalue  // Inverts the white & black image of the brush
+Subtool // Its like a layer in Photoshop, or multiple models in a scene in Maya.
