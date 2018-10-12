@@ -2,6 +2,8 @@ ctrl - more details when hovering over a control
 tab - hide interface
 spacebar - bring out hotbox
 shift + f - wireframe
+ctrl + shift + mouse drag select - split by hidden areas
+ctrl + shift + click empty area - show model if hidden
 
 , - lightbox
 b - brush library
