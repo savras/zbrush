@@ -16,6 +16,17 @@ alt - inverse brush behaviour
 [ or ] - change brush size
 x - symmetry mode
 
+Masking
+=======
+ctrl + drag - paint mask
+
+Multimesh
+=========
+m - insert multi mesh
+ctrl + drag, release - snap to size
+stroke -> curve mode
+    alt + click + release alt + drag - draw using curve mode guidance
+
 Subtool
 =======
 alt + click model parts - select subtool
