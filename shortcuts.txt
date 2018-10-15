@@ -16,6 +16,14 @@ alt - inverse brush behaviour
 [ or ] - change brush size
 x - symmetry mode
 
+Transpose Master
+================
+Zplugin -> TPoseMaster // manipulate subtools altogether
+
+Boolean mesh
+============
+d - dynamic subdivision mode
+
 Masking
 =======
 ctrl + drag - paint mask
