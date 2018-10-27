@@ -2,9 +2,16 @@ ctrl - more details when hovering over a control
 tab - hide interface
 spacebar - bring out hotbox
 shift + f - wireframe
-ctrl + shift + mouse drag select - split by hidden areas
-ctrl + shift + click empty area - show model if hidden
 
+Selection
+=========
+ctrl + shift + mouse drag select - select subtool => turn on solo mode
+ctrl + shift + click empty area - show other subtools
+ctrl + shift + click - select
+in selection mode,
+    choose lasso brush
+    ctrl + shift + click empty area - inverse subtool selection
+    
 , - lightbox
 b - brush library
 f - focus/ frame
