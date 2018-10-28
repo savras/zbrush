@@ -24,6 +24,20 @@ alt - inverse brush behaviour
 [ or ] - change brush size
 x - symmetry mode
 
+Poly group
+==========
+ctrl + w - make polygroup for currently visible subtool
+
+Masking
+=======
+hold ctrl + paint
+ctrl + click empty area - inverse mask
+ctrl + drag empty area - remove mask
+ctrl + alt + paint - pain away mask
+
+masked curve brush - ctrl + drag, then hold alt to bend curve, or double tap alt to hard bend
+    ctrl + space - move drawn mask around
+    
 Transpose Master
 ================
 Zplugin -> TPoseMaster // manipulate subtools altogether
