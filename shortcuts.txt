@@ -5,7 +5,8 @@ shift + f - wireframe
 
 Selection
 =========
-ctrl + shift + mouse drag select - select subtool => turn on solo mode
+ctrl + shift + mouse drag select - select subtool and hide the rest/ isolate subtool
+    can also turn on solo mode
 ctrl + shift + click empty area - show other subtools
 ctrl + shift + click - select
 in selection mode,
