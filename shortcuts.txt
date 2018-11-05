@@ -91,3 +91,11 @@ Aplha // images that drive brush detail
     Stroke -> Modifier -> Roll  // Completes alpha image before applying new alpha (which stack on each other)
     Alpha -> Modifier -> Midvalue  // Inverts the white & black image of the brush
 Subtool // Its like a layer in Photoshop, or multiple models in a scene in Maya.
+
+ZModeller (b + z + m)
+=====================
+Holding down space - ZModeller options
+alt + click on active subtool - select group
+    solo mode
+alt + click - remove selection (in edge mode)
+
